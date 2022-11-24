@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="DM_TestCase.DW_vote_TC"/>
+      <class name="DM_TestCase.Register_TC01"/>
+      <class name="DM_TestCase.DWS_go_viewAllPage"/>
+      <class name="DM_TestCase.Computer_TC07"/>
+      <class name="DM_TestCase.Electronics_TC08"/>
+      <class name="DM_TestCase.Login_TC02"/>
+      <class name="DM_TestCase.Search_TC03"/>
+      <class name="DM_TestCase.DWS_TwiterLogin"/>
+      <class name="DM_TestCase.DWS_goToPrivacyNotice"/>
+      <class name="DM_TestCase.DWS_ContactUs"/>
+      <class name="DM_TestCase.Jwelery_TC09"/>
+      <class name="DM_TestCase.Books_TC05"/>
+      <class name="DM_TestCase.DWS_Tricentis"/>
+      <class name="DM_TestCase.DWS_AddProduct_To_Wishlist"/>
+      <class name="DM_TestCase.AdvancedSearch_TC04"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

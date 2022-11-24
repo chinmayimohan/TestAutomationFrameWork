@@ -1,0 +1,154 @@
+<html>
+<head>
+<title>TestNG:  Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>15/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Nov 22 11:54:40 IST 2022</td>
+</tr>
+<tr><td>Total time:</td><td>255 seconds (255646 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='DM_TestCase.DWS_go_viewAllPage.viewAll()'><b>viewAll</b><br>Test class: DM_TestCase.DWS_go_viewAllPage</td>
+<td></td>
+<td>1</td>
+<td>DM_TestCase.DWS_go_viewAllPage@248e319b</td></tr>
+<tr>
+<td title='DM_TestCase.Search_TC03.To_Search()'><b>To_Search</b><br>Test class: DM_TestCase.Search_TC03</td>
+<td></td>
+<td>2</td>
+<td>DM_TestCase.Search_TC03@563f38c4</td></tr>
+<tr>
+<td title='DM_TestCase.Login_TC02.To_login()'><b>To_login</b><br>Test class: DM_TestCase.Login_TC02</td>
+<td></td>
+<td>5</td>
+<td>DM_TestCase.Login_TC02@3e8c3cb</td></tr>
+<tr>
+<td title='DM_TestCase.DWS_AddProduct_To_Wishlist.add_Product_To_Wishlist()'><b>add_Product_To_Wishlist</b><br>Test class: DM_TestCase.DWS_AddProduct_To_Wishlist</td>
+<td></td>
+<td>0</td>
+<td>DM_TestCase.DWS_AddProduct_To_Wishlist@1ca3b418</td></tr>
+<tr>
+<td title='DM_TestCase.AdvancedSearch_TC04.To_AdvancedSearch()'><b>To_AdvancedSearch</b><br>Test class: DM_TestCase.AdvancedSearch_TC04</td>
+<td></td>
+<td>13</td>
+<td>DM_TestCase.AdvancedSearch_TC04@58cbafc2</td></tr>
+<tr>
+<td title='DM_TestCase.Register_TC01.To_Register()'><b>To_Register</b><br>Test class: DM_TestCase.Register_TC01</td>
+<td></td>
+<td>4</td>
+<td>DM_TestCase.Register_TC01@2af004b</td></tr>
+<tr>
+<td title='DM_TestCase.Jwelery_TC09.jewelry()'><b>jewelry</b><br>Test class: DM_TestCase.Jwelery_TC09</td>
+<td></td>
+<td>13</td>
+<td>DM_TestCase.Jwelery_TC09@3b0fe47a</td></tr>
+<tr>
+<td title='DM_TestCase.DWS_TwiterLogin.twitterLogin()'><b>twitterLogin</b><br>Test class: DM_TestCase.DWS_TwiterLogin</td>
+<td></td>
+<td>23</td>
+<td>DM_TestCase.DWS_TwiterLogin@117159c0</td></tr>
+<tr>
+<td title='DM_TestCase.DWS_Tricentis.tricentis()'><b>tricentis</b><br>Test class: DM_TestCase.DWS_Tricentis</td>
+<td></td>
+<td>1</td>
+<td>DM_TestCase.DWS_Tricentis@235ecd9f</td></tr>
+<tr>
+<td title='DM_TestCase.Computer_TC07.Books()'><b>Books</b><br>Test class: DM_TestCase.Computer_TC07</td>
+<td></td>
+<td>15</td>
+<td>DM_TestCase.Computer_TC07@5d0bf09b</td></tr>
+<tr>
+<td title='DM_TestCase.Electronics_TC08.Books()'><b>Books</b><br>Test class: DM_TestCase.Electronics_TC08</td>
+<td></td>
+<td>12</td>
+<td>DM_TestCase.Electronics_TC08@793f29ff</td></tr>
+<tr>
+<td title='DM_TestCase.DWS_goToPrivacyNotice.goToPrivacyNotice()'><b>goToPrivacyNotice</b><br>Test class: DM_TestCase.DWS_goToPrivacyNotice</td>
+<td></td>
+<td>1</td>
+<td>DM_TestCase.DWS_goToPrivacyNotice@3e27ba32</td></tr>
+<tr>
+<td title='DM_TestCase.DWS_ContactUs.contactUs()'><b>contactUs</b><br>Test class: DM_TestCase.DWS_ContactUs</td>
+<td></td>
+<td>2</td>
+<td>DM_TestCase.DWS_ContactUs@7ef82753</td></tr>
+<tr>
+<td title='DM_TestCase.Books_TC05.Books()'><b>Books</b><br>Test class: DM_TestCase.Books_TC05</td>
+<td></td>
+<td>13</td>
+<td>DM_TestCase.Books_TC05@202b0582</td></tr>
+<tr>
+<td title='DM_TestCase.DW_vote_TC.To_Vote()'><b>To_Vote</b><br>Test class: DM_TestCase.DW_vote_TC</td>
+<td></td>
+<td>0</td>
+<td>DM_TestCase.DW_vote_TC@2cf3d63b</td></tr>
+</table><p>
+</body>
+</html>

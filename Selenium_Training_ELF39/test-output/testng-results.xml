@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="15" passed="15" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-22T11:54:40 IST" name="Suite" finished-at="2022-11-22T11:58:56 IST" duration-ms="255646">
+    <groups>
+    </groups>
+    <test started-at="2022-11-22T11:54:40 IST" name="Test" finished-at="2022-11-22T11:58:56 IST" duration-ms="255646">
+      <class name="DM_TestCase.Jwelery_TC09">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Jwelery_TC09@3b0fe47a]" started-at="2022-11-22T11:57:26 IST" name="Browser_setup" finished-at="2022-11-22T11:57:36 IST" duration-ms="9870" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="jewelry()[pri:0, instance:DM_TestCase.Jwelery_TC09@3b0fe47a]" started-at="2022-11-22T11:57:36 IST" name="jewelry" finished-at="2022-11-22T11:57:49 IST" duration-ms="13056" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- jewelry -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Jwelery_TC09@3b0fe47a]" started-at="2022-11-22T11:57:49 IST" name="tear_down" finished-at="2022-11-22T11:57:49 IST" duration-ms="350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Jwelery_TC09 -->
+      <class name="DM_TestCase.DWS_go_viewAllPage">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_go_viewAllPage@248e319b]" started-at="2022-11-22T11:55:01 IST" name="Browser_setup" finished-at="2022-11-22T11:55:08 IST" duration-ms="6834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="viewAll()[pri:0, instance:DM_TestCase.DWS_go_viewAllPage@248e319b]" started-at="2022-11-22T11:55:08 IST" name="viewAll" finished-at="2022-11-22T11:55:09 IST" duration-ms="1226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewAll -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_go_viewAllPage@248e319b]" started-at="2022-11-22T11:55:09 IST" name="tear_down" finished-at="2022-11-22T11:55:10 IST" duration-ms="331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_go_viewAllPage -->
+      <class name="DM_TestCase.DWS_AddProduct_To_Wishlist">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_AddProduct_To_Wishlist@1ca3b418]" started-at="2022-11-22T11:58:26 IST" name="Browser_setup" finished-at="2022-11-22T11:58:34 IST" duration-ms="8118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="add_Product_To_Wishlist()[pri:0, instance:DM_TestCase.DWS_AddProduct_To_Wishlist@1ca3b418]" started-at="2022-11-22T11:58:34 IST" name="add_Product_To_Wishlist" finished-at="2022-11-22T11:58:35 IST" duration-ms="698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- add_Product_To_Wishlist -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_AddProduct_To_Wishlist@1ca3b418]" started-at="2022-11-22T11:58:35 IST" name="tear_down" finished-at="2022-11-22T11:58:35 IST" duration-ms="269" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_AddProduct_To_Wishlist -->
+      <class name="DM_TestCase.DWS_Tricentis">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_Tricentis@235ecd9f]" started-at="2022-11-22T11:58:16 IST" name="Browser_setup" finished-at="2022-11-22T11:58:24 IST" duration-ms="8035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="tricentis()[pri:0, instance:DM_TestCase.DWS_Tricentis@235ecd9f]" started-at="2022-11-22T11:58:24 IST" name="tricentis" finished-at="2022-11-22T11:58:26 IST" duration-ms="1499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tricentis -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_Tricentis@235ecd9f]" started-at="2022-11-22T11:58:26 IST" name="tear_down" finished-at="2022-11-22T11:58:26 IST" duration-ms="431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_Tricentis -->
+      <class name="DM_TestCase.DW_vote_TC">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DW_vote_TC@2cf3d63b]" started-at="2022-11-22T11:54:40 IST" name="Browser_setup" finished-at="2022-11-22T11:54:48 IST" duration-ms="7974" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="To_Vote()[pri:0, instance:DM_TestCase.DW_vote_TC@2cf3d63b]" started-at="2022-11-22T11:54:48 IST" name="To_Vote" finished-at="2022-11-22T11:54:49 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_Vote -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DW_vote_TC@2cf3d63b]" started-at="2022-11-22T11:54:49 IST" name="tear_down" finished-at="2022-11-22T11:54:49 IST" duration-ms="439" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DW_vote_TC -->
+      <class name="DM_TestCase.AdvancedSearch_TC04">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.AdvancedSearch_TC04@58cbafc2]" started-at="2022-11-22T11:58:35 IST" name="Browser_setup" finished-at="2022-11-22T11:58:42 IST" duration-ms="6535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="To_AdvancedSearch()[pri:0, instance:DM_TestCase.AdvancedSearch_TC04@58cbafc2]" started-at="2022-11-22T11:58:42 IST" name="To_AdvancedSearch" finished-at="2022-11-22T11:58:55 IST" duration-ms="13438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_AdvancedSearch -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.AdvancedSearch_TC04@58cbafc2]" started-at="2022-11-22T11:58:55 IST" name="tear_down" finished-at="2022-11-22T11:58:56 IST" duration-ms="714" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.AdvancedSearch_TC04 -->
+      <class name="DM_TestCase.Computer_TC07">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Computer_TC07@5d0bf09b]" started-at="2022-11-22T11:55:10 IST" name="Browser_setup" finished-at="2022-11-22T11:55:15 IST" duration-ms="5775" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="Books()[pri:0, instance:DM_TestCase.Computer_TC07@5d0bf09b]" started-at="2022-11-22T11:55:15 IST" name="Books" finished-at="2022-11-22T11:55:30 IST" duration-ms="15145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Books -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Computer_TC07@5d0bf09b]" started-at="2022-11-22T11:55:30 IST" name="tear_down" finished-at="2022-11-22T11:55:31 IST" duration-ms="443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Computer_TC07 -->
+      <class name="DM_TestCase.Login_TC02">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Login_TC02@3e8c3cb]" started-at="2022-11-22T11:55:52 IST" name="Browser_setup" finished-at="2022-11-22T11:56:02 IST" duration-ms="9322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="To_login()[pri:0, instance:DM_TestCase.Login_TC02@3e8c3cb]" started-at="2022-11-22T11:56:02 IST" name="To_login" finished-at="2022-11-22T11:56:07 IST" duration-ms="5357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_login -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Login_TC02@3e8c3cb]" started-at="2022-11-22T11:56:07 IST" name="tear_down" finished-at="2022-11-22T11:56:08 IST" duration-ms="623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Login_TC02 -->
+      <class name="DM_TestCase.Electronics_TC08">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Electronics_TC08@793f29ff]" started-at="2022-11-22T11:55:31 IST" name="Browser_setup" finished-at="2022-11-22T11:55:40 IST" duration-ms="8746" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="Books()[pri:0, instance:DM_TestCase.Electronics_TC08@793f29ff]" started-at="2022-11-22T11:55:40 IST" name="Books" finished-at="2022-11-22T11:55:52 IST" duration-ms="12104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Books -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Electronics_TC08@793f29ff]" started-at="2022-11-22T11:55:52 IST" name="tear_down" finished-at="2022-11-22T11:55:52 IST" duration-ms="447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Electronics_TC08 -->
+      <class name="DM_TestCase.Search_TC03">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Search_TC03@563f38c4]" started-at="2022-11-22T11:56:08 IST" name="Browser_setup" finished-at="2022-11-22T11:56:20 IST" duration-ms="12851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="To_Search()[pri:0, instance:DM_TestCase.Search_TC03@563f38c4]" started-at="2022-11-22T11:56:20 IST" name="To_Search" finished-at="2022-11-22T11:56:22 IST" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_Search -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Search_TC03@563f38c4]" started-at="2022-11-22T11:56:22 IST" name="tear_down" finished-at="2022-11-22T11:56:23 IST" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Search_TC03 -->
+      <class name="DM_TestCase.Books_TC05">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Books_TC05@202b0582]" started-at="2022-11-22T11:57:49 IST" name="Browser_setup" finished-at="2022-11-22T11:58:02 IST" duration-ms="12308" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="Books()[pri:0, instance:DM_TestCase.Books_TC05@202b0582]" started-at="2022-11-22T11:58:02 IST" name="Books" finished-at="2022-11-22T11:58:16 IST" duration-ms="13847" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Books -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Books_TC05@202b0582]" started-at="2022-11-22T11:58:16 IST" name="tear_down" finished-at="2022-11-22T11:58:16 IST" duration-ms="372" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Books_TC05 -->
+      <class name="DM_TestCase.DWS_TwiterLogin">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_TwiterLogin@117159c0]" started-at="2022-11-22T11:56:23 IST" name="Browser_setup" finished-at="2022-11-22T11:56:33 IST" duration-ms="10247" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="twitterLogin()[pri:0, instance:DM_TestCase.DWS_TwiterLogin@117159c0]" started-at="2022-11-22T11:56:33 IST" name="twitterLogin" finished-at="2022-11-22T11:56:56 IST" duration-ms="23147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- twitterLogin -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_TwiterLogin@117159c0]" started-at="2022-11-22T11:56:56 IST" name="tear_down" finished-at="2022-11-22T11:56:56 IST" duration-ms="216" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_TwiterLogin -->
+      <class name="DM_TestCase.Register_TC01">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.Register_TC01@2af004b]" started-at="2022-11-22T11:54:49 IST" name="Browser_setup" finished-at="2022-11-22T11:54:56 IST" duration-ms="7271" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="To_Register()[pri:0, instance:DM_TestCase.Register_TC01@2af004b]" started-at="2022-11-22T11:54:56 IST" name="To_Register" finished-at="2022-11-22T11:55:00 IST" duration-ms="4037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- To_Register -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.Register_TC01@2af004b]" started-at="2022-11-22T11:55:00 IST" name="tear_down" finished-at="2022-11-22T11:55:01 IST" duration-ms="756" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.Register_TC01 -->
+      <class name="DM_TestCase.DWS_goToPrivacyNotice">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_goToPrivacyNotice@3e27ba32]" started-at="2022-11-22T11:56:56 IST" name="Browser_setup" finished-at="2022-11-22T11:57:12 IST" duration-ms="15517" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="goToPrivacyNotice()[pri:0, instance:DM_TestCase.DWS_goToPrivacyNotice@3e27ba32]" started-at="2022-11-22T11:57:12 IST" name="goToPrivacyNotice" finished-at="2022-11-22T11:57:14 IST" duration-ms="1734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- goToPrivacyNotice -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_goToPrivacyNotice@3e27ba32]" started-at="2022-11-22T11:57:14 IST" name="tear_down" finished-at="2022-11-22T11:57:14 IST" duration-ms="942" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_goToPrivacyNotice -->
+      <class name="DM_TestCase.DWS_ContactUs">
+        <test-method is-config="true" signature="Browser_setup()[pri:0, instance:DM_TestCase.DWS_ContactUs@7ef82753]" started-at="2022-11-22T11:57:14 IST" name="Browser_setup" finished-at="2022-11-22T11:57:23 IST" duration-ms="8694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_setup -->
+        <test-method signature="contactUs()[pri:0, instance:DM_TestCase.DWS_ContactUs@7ef82753]" started-at="2022-11-22T11:57:23 IST" name="contactUs" finished-at="2022-11-22T11:57:26 IST" duration-ms="2528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contactUs -->
+        <test-method is-config="true" signature="tear_down()[pri:0, instance:DM_TestCase.DWS_ContactUs@7ef82753]" started-at="2022-11-22T11:57:26 IST" name="tear_down" finished-at="2022-11-22T11:57:26 IST" duration-ms="441" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tear_down -->
+      </class> <!-- DM_TestCase.DWS_ContactUs -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
